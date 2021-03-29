@@ -1,6 +1,6 @@
 # Product Comparison Table App
 
-> Designed and implemented a production ready product comparison table application.
+> Designed and implemented a production ready product comparison table application. Select products to compare from the images at the top.
 
 > Technology used: `React 17` , `Tailwind css` , `React-Query` , `Axios`
 
